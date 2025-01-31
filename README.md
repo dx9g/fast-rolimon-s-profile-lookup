@@ -3,7 +3,7 @@
 # Instruction
 No need to make a long instruction, after you opened the program just type in someone's roblox username and press enter (if you typed in someone's old username its also gonna work).
 After a few seconds you are gonna get what you wanted.
-Before opening the program make sure you downloaded all the requirements from requirements.txt and also make sure you installed python on your computer, otherwise it won't work.
+Before opening the program make sure you downloaded all the requirements from requirements.txt and also make sure you installed python on your pc, otherwise it won't work.
 python download link: https://www.python.org/downloads/
 
 # What type of information you can get?
