@@ -58,7 +58,7 @@ def main():
     sys.stderr = open(os.devnull, "w")
     
     while True:
-        username = input("Enter Roblox username (or type 'exit' to quit): ")
+        username = input("Enter Roblox username: ")
         if username.lower() == 'exit':
             break
         
