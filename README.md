@@ -11,7 +11,7 @@ python download link: https://www.python.org/downloads/
 2. Current rap
 3. Roblox profile link
 4. Rolimon's profile link
-(?) More soon...
+5. More soon...
 
 # Is this file safe?
 Yes, it is, its open sourced python file, you can edit it however you want.
